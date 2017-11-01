@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Kevin Kiningham
+tagline:             Tidbits and Info
+url:                 https://kkiningh.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Kevin Kiningham
+  url:               https://kkiningh.github.io
+  email:             kkiningh@stanford.edu
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/kkiningh/kkiningh.github.io
 
 # Gems
 gems:
