@@ -26,6 +26,8 @@ version:             2.0.0
 github:
   repo:              https://github.com/kkiningh/kkiningh.github.io
 
+analytics_id:        UA-93559920-2
+
 # Gems
 gems:
   - jekyll-paginate
