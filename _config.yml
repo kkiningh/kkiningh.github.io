@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               Kevin Kiningham 
+title:               Kevin Kiningham
 url:                 https://www.kevinkiningham.com
 paginate:            1
 baseurl:             ""
@@ -16,6 +16,11 @@ pages_list:          {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
 sass:
   sass_dir:          _sass
   style:            :compressed
+
+# Use Kramdown and mathjax for math parsing
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 
 # About/contact
 author:
