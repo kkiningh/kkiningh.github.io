@@ -20,7 +20,7 @@ sass:
 # Use Kramdown and mathjax for math parsing
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
+  math_engine: nil # for katex (because kramdown defaults to mathjax)
 
 # About/contact
 author:
