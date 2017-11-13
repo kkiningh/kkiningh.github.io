@@ -1,5 +1,5 @@
-My personal website.
-[kkiningh.github.io](https://kkiningh.github.io)
+My personal website, hosted on Github Pages
+[www.kevinkiningham.com](https://www.kevinkiningham.com)
 
 Based on the [poole theme](https://github.com/poole/poole) by [Mark Otto](https://github.com/mdo).
 
