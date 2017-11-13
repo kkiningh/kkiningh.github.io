@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               Kevin Kiningham
+title:               Kevin Kiningham Blog
 url:                 https://www.kevinkiningham.com
 paginate:            1
 baseurl:             ""
@@ -26,6 +26,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
+  username:          kkiningh
   repo:              https://github.com/kkiningh/kkiningh.github.io
 
 analytics_id:        UA-93559920-2
