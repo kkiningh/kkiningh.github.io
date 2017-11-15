@@ -1,0 +1,14 @@
+figure {
+  // Center equations inside of figures
+  > .equation {
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
