@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-Hi! I'm Kevin Kiningham, an Electrical Engineering Ph.D Student at Stanford University.
-My area of research is [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture), with a focus in security and deep learning.
+![Portrait](public/KevinPortrait.jpg)
+
+Hi! I'm Kevin Kiningham, a 4th year Electrical Engineering Ph.D student at Stanford University.
+I focus on [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture) with applications in security and deep learning.
