@@ -3,8 +3,8 @@ layout: post
 title: Bash Completion on OS X With Homebrew
 ---
 
-Bash compleation is one of those hyperconvient features that you forget about until you have to use a system where it's not available.
-Recently, I found out that many homebrew formulas come with builtin support for bash completions.
+Bash completion is one of those convenient features you forget about until you have to use a system where it's not available.
+Recently, I found out that many homebrew formulas come with built-in support for bash completions.
 Assuming you already have [homebrew](https://brew.sh/) installed, you'll first install the bash-completion formula
 
 ```bash
