@@ -40,3 +40,4 @@ analytics_id:        UA-93559920-2
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
